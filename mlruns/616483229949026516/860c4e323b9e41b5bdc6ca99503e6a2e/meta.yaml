@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/860c4e323b9e41b5bdc6ca99503e6a2e/artifacts
+end_time: 1750255221603
+entry_point_name: ''
+experiment_id: '616483229949026516'
+lifecycle_stage: active
+run_id: 860c4e323b9e41b5bdc6ca99503e6a2e
+run_name: KNearest_Neighbors_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750255201403
+status: 3
+tags: []
+user_id: kartvim

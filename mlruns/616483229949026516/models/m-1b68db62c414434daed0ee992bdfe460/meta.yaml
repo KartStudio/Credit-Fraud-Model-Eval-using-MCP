@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/models/m-1b68db62c414434daed0ee992bdfe460/artifacts
+creation_timestamp: 1750254746000
+experiment_id: '616483229949026516'
+last_updated_timestamp: 1750254764557
+model_id: m-1b68db62c414434daed0ee992bdfe460
+model_type: null
+name: k_nearest_neighbors_model
+source_run_id: f320dd477c71425082c47c15f9883911
+status: 2
+status_message: null

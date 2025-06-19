@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/7fd7f81bf7434d099f33ac68314e0aaf/artifacts
+end_time: 1750255283721
+entry_point_name: ''
+experiment_id: '616483229949026516'
+lifecycle_stage: active
+run_id: 7fd7f81bf7434d099f33ac68314e0aaf
+run_name: Pipeline_Cross_Validation_Evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750255263019
+status: 3
+tags: []
+user_id: kartvim

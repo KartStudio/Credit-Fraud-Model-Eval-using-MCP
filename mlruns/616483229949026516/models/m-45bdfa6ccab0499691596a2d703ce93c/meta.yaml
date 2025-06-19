@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/models/m-45bdfa6ccab0499691596a2d703ce93c/artifacts
+creation_timestamp: 1750254596084
+experiment_id: '616483229949026516'
+last_updated_timestamp: 1750254612014
+model_id: m-45bdfa6ccab0499691596a2d703ce93c
+model_type: null
+name: svc_model
+source_run_id: 7a0982235b3e4644a077740156a3a1cd
+status: 2
+status_message: null

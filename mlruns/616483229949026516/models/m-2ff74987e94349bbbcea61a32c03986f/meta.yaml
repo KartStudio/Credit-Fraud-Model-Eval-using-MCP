@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/models/m-2ff74987e94349bbbcea61a32c03986f/artifacts
+creation_timestamp: 1750254523260
+experiment_id: '616483229949026516'
+last_updated_timestamp: 1750254572387
+model_id: m-2ff74987e94349bbbcea61a32c03986f
+model_type: null
+name: logistic_regression_model
+source_run_id: 47dd207dadd142c2b8b2de613190e6a1
+status: 2
+status_message: null
