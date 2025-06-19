@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/a55ecf9e320b439abe67d1167bf29e38/artifacts
+end_time: 1750334291659
+entry_point_name: ''
+experiment_id: '616483229949026516'
+lifecycle_stage: active
+run_id: a55ecf9e320b439abe67d1167bf29e38
+run_name: DecisionTree_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750334273614
+status: 3
+tags: []
+user_id: kartvim

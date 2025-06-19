@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/c57d9d42a70b4590adc0ec1cf2829684/artifacts
+end_time: 1750338385999
+entry_point_name: ''
+experiment_id: '616483229949026516'
+lifecycle_stage: active
+run_id: c57d9d42a70b4590adc0ec1cf2829684
+run_name: SVC_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750338366232
+status: 3
+tags: []
+user_id: kartvim

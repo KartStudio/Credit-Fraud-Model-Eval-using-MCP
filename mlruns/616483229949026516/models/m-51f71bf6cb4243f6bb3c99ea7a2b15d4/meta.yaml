@@ -1,0 +1,10 @@
+artifact_location: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/models/m-51f71bf6cb4243f6bb3c99ea7a2b15d4/artifacts
+creation_timestamp: 1750337666023
+experiment_id: '616483229949026516'
+last_updated_timestamp: 1750337682311
+model_id: m-51f71bf6cb4243f6bb3c99ea7a2b15d4
+model_type: null
+name: decision_tree_model
+source_run_id: 2f33554385914f4a857c1f21559d66e2
+status: 2
+status_message: null

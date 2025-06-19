@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/8e4c0a9b3b8c4cf58bb3a15a054406f8/artifacts
+end_time: 1750333606226
+entry_point_name: ''
+experiment_id: '616483229949026516'
+lifecycle_stage: active
+run_id: 8e4c0a9b3b8c4cf58bb3a15a054406f8
+run_name: Data_Prep_and_EDA_Summary
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750333604696
+status: 3
+tags: []
+user_id: kartvim

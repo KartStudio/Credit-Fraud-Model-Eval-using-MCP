@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/432b0bd9620c4d378fce3994c971cef7/artifacts
+end_time: 1750336650959
+entry_point_name: ''
+experiment_id: '616483229949026516'
+lifecycle_stage: active
+run_id: 432b0bd9620c4d378fce3994c971cef7
+run_name: Logistic_Regression_GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750336505938
+status: 3
+tags: []
+user_id: kartvim

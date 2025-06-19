@@ -1,0 +1,14 @@
+artifact_uri: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/8cca1afe59714c41b629fe573d903ed4/artifacts
+end_time: 1750334888033
+entry_point_name: ''
+experiment_id: '616483229949026516'
+lifecycle_stage: active
+run_id: 8cca1afe59714c41b629fe573d903ed4
+run_name: Final_Test_Set_Performance_And_Plots
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750334870640
+status: 3
+tags: []
+user_id: kartvim

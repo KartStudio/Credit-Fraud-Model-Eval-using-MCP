@@ -1,0 +1,22 @@
+artifact_path: file:///mnt/c/Users/Vimal%20Karthik/mcpservers/mcpcrit/mlruns/616483229949026516/models/m-067f3d4383ee48d984dadc627936d673/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+mlflow_version: 3.1.0
+model_id: m-067f3d4383ee48d984dadc627936d673
+model_size_bytes: 947
+model_uuid: m-067f3d4383ee48d984dadc627936d673
+prompts: null
+run_id: 64467c4014894bdfb1ffcb73f04cda18
+utc_time_created: '2025-06-19 11:56:58.991339'
